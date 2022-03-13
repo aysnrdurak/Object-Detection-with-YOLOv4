@@ -1,7 +1,11 @@
 # Object-Detection-with-YOLOv4
 With this repostory, we will perform an object recognition project using the YOLOv4 algorithm with our dataset consisting of fruits. 
  We will use Ubuntu 20.04 version for data preparation and testing, We will use Google Colaboratory for training.
-
+ 
+## Steps
+- [x] Preparing Data
+- [x] Labeling
+- [ ] 
 ## Requirements
 Ubuntu 20.04
 
