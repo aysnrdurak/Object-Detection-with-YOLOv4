@@ -44,7 +44,7 @@ You can find all steps following pictures.
 
 ---
 
-<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/predefined1.png" width="480"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/predefined2.png" width="480"/> 
+<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/predefined1.png" width="360"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/predefined2.png" width="360"/> 
 
 ---
 
@@ -52,10 +52,10 @@ Then you are ready for open the application
 
 ---
 
-<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/labell.png" width="480"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label2.png" width="480"/> 
+<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/labell.png" width="360"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label2.png" width="360"/> 
 
 ---
-<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label4.png" width="480"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label5.png" width="480"/> 
+<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label4.png" width="360"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label5.png" width="360"/> 
 
 ---
 
