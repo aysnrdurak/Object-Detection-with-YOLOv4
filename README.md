@@ -40,6 +40,8 @@ Ubuntu users can directly use my folder [here](https://github.com/aysnrdurak/Obj
 
 Find a folder that name is "data" and it include "predefined_classes" file. You should replace the classes there with your own class name. You must be careful about number of claases because they will be classes id and every same claases should has same id. İf you work at different computers you have to add the classes to the file in the same order.
 
+You can find all steps following pictures.
+
 ---
 
 <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/predefined1.png" width="480"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/predefined2.png" width="480"/> 
@@ -50,7 +52,13 @@ Then you are ready for open the application
 
 ---
 
-<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label1.png" width="480"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label2.png" width="480"/> 
+<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/labell.png" width="480"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label2.png" width="480"/> 
+
+---
+<img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label4.png" width="480"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label5.png" width="480"/> 
+
+---
+
 
 
     
