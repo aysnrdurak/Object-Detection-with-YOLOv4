@@ -36,15 +36,13 @@ I got a fruit dataset from kaggle. You can find the dataset I used [here](https:
 ### Labeling
 From this [link](https://github.com/tzutalin/labelImg), we are installing the LabelImg application, our data labeling tool.
 
-Ubuntu users can directly follow the steps below.
+Ubuntu users can directly use my folder [here](https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/tree/main/Labelimg) you should download all files and open the folder.
 
-Python 3 + Qt5
+Find a folder that name is "data" and it include "predefined_classes" file. You should replace the classes there with your own class name. You must be careful about number of claases because they will be classes id and every same claases should has same id. İf you work at different computers you have to add the classes to the file in the same order.
 
-    sudo apt-get install pyqt5-dev-tools
-    sudo pip3 install -r requirements/requirements-linux-python3.txt
-    make qt5py3
-    python3 labelImg.py
-    python3 labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
+You can see all steps this picture:
+
+
     
  
 
