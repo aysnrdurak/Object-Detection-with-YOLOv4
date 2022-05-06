@@ -5,6 +5,7 @@ With this repostory, we will perform an object recognition project using the YOL
 ## Steps
 - [x] Preparing Data
 - [x] Labeling
+- [x] Preparing Files
 - [ ] 
 ## Requirements
 Ubuntu 20.04
@@ -58,6 +59,21 @@ Then you are ready for open the application
 <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label4.png" width="360"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label5.png" width="360"/> 
 
 ---
+ ### You can find all files [here](https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/tree/main/data_fruit)
+  <br>  
+ <p align="center">
+  <img width="600" height="400" src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/preparing_folders.png">
+</p>
+
+- data_images: This folder include our all data images and all labels
+- data_label: This folder include our all labels
+- data_fruit.names: This file contains data classes names (it is same with pre-defined classes)
+- fruit.data: This file contains number of classes, paths etc. 
+- test.txt and train.txt: These files contain the path of the photos to be used as test and train.
+
+
+ 
+ 
 
 
 
