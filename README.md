@@ -61,6 +61,8 @@ Then you are ready for open the application
 
 ---
 
+We need to create 2 folders and 4 files for preparing datas. You can see that files here:
+
   <br>  
  <p align="center">
   <img width="600" height="400" src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/preparing_folders.png">
@@ -76,9 +78,10 @@ Then you are ready for open the application
  ---
  
  Then we need to download and edit darknet files.
- 1. Download this darknet repostory (https://github.com/AlexeyAB/darknet)
- 2. 
  
+ 1. Create a new folder that name is 'yolov4' in the next step you will download the file to this location.
+ 2. Download this darknet repostory (https://github.com/AlexeyAB/darknet)
+ 3. We have pre-trained yolo models. Instead of starting from scratch, we will start our training by using the weight of these models. We can call this method transfer learning. You can find weights same repostory. We will use 
 
 
  
