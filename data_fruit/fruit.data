@@ -1,0 +1,5 @@
+classes = 3
+train = data_fruit/train.txt
+valid = data_fruit/test.txt
+names = data_fruit/data_fruit.names
+backup = backup
