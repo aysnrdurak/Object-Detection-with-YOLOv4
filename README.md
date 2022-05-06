@@ -82,9 +82,17 @@ We need to create 2 folders and 4 files for preparing datas. You can see that fi
  Then we need to download and edit darknet files.
  
  1. Create a new folder that name is 'yolov4' in the next step you will download the file to this location.
- 2. Download this darknet repostory (https://github.com/AlexeyAB/darknet)
- 3. We have pre-trained yolo models. Instead of starting from scratch, we will start our training by using the weight of these models. We can call this method transfer learning. You can find weights same repostory. We will use 
-
+ 2. We have pre-trained yolo models. Instead of starting from scratch, we will start our training by using the weight of these models. We can call this method transfer learning. You can find weights same repostory. We will use [yolov4.conv.137](https://drive.google.com/file/d/1JKF-bdIklxOOVy-2Cr5qdvjgGpmGfcbp/view)
+ 3. Go to inside darknet file and find 'makefile'. Replace GPU, CUDNN and OPENCV with 1 instead of 0.
+ 4. Then find cfg > yolov4.cfg and change some values and copy file then paste to darknet folder (you should change the name):
+     - subdivision: 8 -> 64
+     - width and height: replace with your image size (mine is 640x640)
+     - max_batches: number of classes * 2000 (mine is 3*2000 = 6000)
+     - steps: 80% of max_batches, 90% of max_batches
+     - classes: replace with your number of classes (it has 3 classes value you should change all of them)
+     - filters: (classes+5)*3 (three of them)
+5. Download this darknet repostory (https://github.com/AlexeyAB/darknet) and paste into darknet folder.
+6. Paste your data file into darknet file then convert the file to zip format
 
  
  
