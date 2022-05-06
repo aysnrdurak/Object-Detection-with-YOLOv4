@@ -6,6 +6,7 @@ With this repostory, we will perform an object recognition project using the YOL
 - [x] Preparing Data
 - [x] Labeling
 - [x] Preparing Files
+- [x] Darknet
 - [ ] 
 ## Requirements
 Ubuntu 20.04
@@ -59,7 +60,7 @@ Then you are ready for open the application
 <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label4.png" width="360"/> <img src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/label5.png" width="360"/> 
 
 ---
- ### You can find all files [here](https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/tree/main/data_fruit)
+
   <br>  
  <p align="center">
   <img width="600" height="400" src="https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/images/preparing_folders.png">
@@ -70,6 +71,14 @@ Then you are ready for open the application
 - data_fruit.names: This file contains data classes names (it is same with pre-defined classes)
 - fruit.data: This file contains number of classes, paths etc. 
 - test.txt and train.txt: These files contain the path of the photos to be used as test and train.
+ ### You can find all files [here](https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/tree/main/data_fruit)
+ 
+ ---
+ 
+ Then we need to download and edit darknet files.
+ 1. Download this darknet repostory (https://github.com/AlexeyAB/darknet)
+ 2. 
+ 
 
 
  
