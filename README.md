@@ -35,6 +35,8 @@ YOLO algorithm works using the following three techniques:
 
 I got a fruit dataset from kaggle. You can find the dataset I used [here](https://www.kaggle.com/chrisfilo/fruit-recognition).
 
+IMPORTANT! In yolo you can not use every size photos. You should resize your photos. You can find the resize code [here](https://github.com/aysnrdurak/Object-Detection-with-YOLOv4/blob/main/tiny-useful-codes/resize.py)
+
 ### Labeling
 From this [link](https://github.com/tzutalin/labelImg), we are installing the LabelImg application, our data labeling tool.
 
