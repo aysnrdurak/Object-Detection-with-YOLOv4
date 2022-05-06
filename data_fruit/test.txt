@@ -1,0 +1,14 @@
+/content/darknet-master/data_fruit/data_images/resized_fruits26.png
+/content/darknet-master/data_fruit/data_images/resized_fruits8.png
+/content/darknet-master/data_fruit/data_images/resized_fruits75.png
+/content/darknet-master/data_fruit/data_images/resized_fruits63.png
+/content/darknet-master/data_fruit/data_images/resized_fruits57.png
+/content/darknet-master/data_fruit/data_images/resized_fruits14.png
+/content/darknet-master/data_fruit/data_images/resized_fruits2.png
+/content/darknet-master/data_fruit/data_images/resized_fruits45.png
+/content/darknet-master/data_fruit/data_images/resized_fruits81.png
+/content/darknet-master/data_fruit/data_images/resized_fruits51.png
+/content/darknet-master/data_fruit/data_images/resized_fruits38.png
+/content/darknet-master/data_fruit/data_images/resized_fruits69.png
+/content/darknet-master/data_fruit/data_images/resized_fruits32.png
+/content/darknet-master/data_fruit/data_images/resized_fruits20.png
