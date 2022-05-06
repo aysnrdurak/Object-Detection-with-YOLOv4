@@ -7,6 +7,7 @@ With this repostory, we will perform an object recognition project using the YOL
 - [x] Labeling
 - [x] Preparing Files
 - [x] Darknet
+- [x] Train
 - [ ] 
 ## Requirements
 Ubuntu 20.04
@@ -93,6 +94,14 @@ We need to create 2 folders and 4 files for preparing datas. You can see that fi
      - filters: (classes+5)*3 (three of them)
 5. Download this darknet repostory (https://github.com/AlexeyAB/darknet) and paste into darknet folder.
 6. Paste your data file into darknet file then convert the file to zip format
+7. Upload your zip file into the Google Drive
+
+---
+
+### Train
+
+I'll use Google Colaboratory you can follow next steps on colab.
+
 
  
  
