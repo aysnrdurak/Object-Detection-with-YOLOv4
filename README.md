@@ -99,7 +99,6 @@ We need to create 2 folders and 4 files for preparing datas. You can see that fi
 
 ---
 
-### Train
 
 
  
