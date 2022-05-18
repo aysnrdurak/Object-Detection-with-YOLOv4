@@ -7,8 +7,7 @@ With this repostory, we will perform an object recognition project using the YOL
 - [x] Labeling
 - [x] Preparing Files
 - [x] Darknet
-- [x] Train
-- [ ] 
+- [ ] Train
 ## Requirements
 Ubuntu 20.04
 
@@ -99,8 +98,6 @@ We need to create 2 folders and 4 files for preparing datas. You can see that fi
 ---
 
 ### Train
-
-I'll use Google Colaboratory you can follow next steps on colab.
 
 
  
