@@ -8,6 +8,8 @@ With this repostory, we will perform an object recognition project using the YOL
 - [x] Preparing Files
 - [x] Darknet
 - [ ] Train
+- Complated all prepation steps.
+
 ## Requirements
 Ubuntu 20.04
 
